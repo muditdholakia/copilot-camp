@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original authorship: [microsoft/copilot-camp](https://github.com/microsoft/copilot-camp). See [your learning plan](CURATOR_README.md) and [security audit](CURATOR_SECURITY.md). Upstream license and copyright notices are retained.
+
 # Welcome to Copilot Developer Camp!
 
 This repo is for hosting a virtual workshop for developers who want to build agents and connectors for Microsoft 365 Copilot.
